@@ -1,0 +1,2 @@
+This is sample file to test
+file upload to S3 bucket
